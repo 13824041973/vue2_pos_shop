@@ -1,0 +1,58 @@
+{
+  "id": "3473153",
+  "name": "pos",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5027",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "68270",
+      "name": "购买",
+      "font_class": "goumai",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "77031",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "77034",
+      "name": "会员卡",
+      "font_class": "huiyuanqia",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "77107",
+      "name": "功能建议",
+      "font_class": "gongnengjianyi",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "925459",
+      "name": "汉堡",
+      "font_class": "hanbao",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "6129228",
+      "name": "183会员、钻石",
+      "font_class": "huiyuanzuanshi",
+      "unicode": "e7b0",
+      "unicode_decimal": 59312
+    }
+  ]
+}
